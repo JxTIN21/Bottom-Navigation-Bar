@@ -7,8 +7,11 @@ This Android project demonstrates the implementation of a bottom navigation bar 
 __Features__
 
 **·** Implementation of a bottom navigation bar with multiple destinations.
+
 **·** Seamless navigation between fragments using the Navigation Component.
+
 **·** Customization of icons and labels for each navigation destination.
+
 **·** Handling navigation events and updating UI accordingly.
 
 __Requirements__
@@ -35,8 +38,11 @@ __Usage__
 __Structure__
 
 **·** MainActivity.java: Entry point of the application. Sets up the bottom navigation bar and navigation graph.
+
 **·** activity_main.xml: Navigation graph containing all the navigation destinations and actions.
+
 **·** fragment_*.xml: Layout files for each fragment representing different sections of the app.
+
 **·** *Fragment.java: java files for each fragment containing logic for UI updates and navigation events.
 
 __Contributing__
