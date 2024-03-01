@@ -1,6 +1,7 @@
 **Android Bottom Navigation Bar Project**
 
 __Overview__
+
 This Android project demonstrates the implementation of a bottom navigation bar using the Navigation Component in Android. Bottom navigation bars provide easy access to key destinations in your app, allowing users to quickly navigate between different sections or features of the app.
 
 __Features__
